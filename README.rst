@@ -9,7 +9,9 @@ To get used to using git, edit this file and add your IRC handle below::
     Qalthos
     oddshocks
     decause
-	RAMstush
-	zanarama
+    RAMstush
+    zanarama
+    DAWacker
+    Thengrad
     Jenneh
     DAWacker
