@@ -7,8 +7,9 @@ Summer FOSSBox.
 To get used to using git, edit this file and add your IRC handle below::
 
     Qalthos
-	oddshocks
+    oddshocks
     decause
 	RAMstush
-	Jenneh
-	DAWacker
+	zanarama
+    Jenneh
+    DAWacker
