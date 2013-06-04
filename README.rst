@@ -10,6 +10,5 @@ To get used to using git, edit this file and add your IRC handle below::
     oddshocks
     decause
     zanarama
-	DAWacker
-	Jenneh
     DAWacker
+    Jenneh
